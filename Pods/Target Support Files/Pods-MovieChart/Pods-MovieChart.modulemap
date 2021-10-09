@@ -1,0 +1,6 @@
+framework module Pods_MovieChart {
+  umbrella header "Pods-MovieChart-umbrella.h"
+
+  export *
+  module * { export * }
+}
